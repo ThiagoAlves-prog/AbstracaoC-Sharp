@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\bin\Debug\net8.0\Atv-04.exe
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\bin\Debug\net8.0\Atv-04.deps.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\bin\Debug\net8.0\Atv-04.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\bin\Debug\net8.0\Atv-04.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\bin\Debug\net8.0\Atv-04.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\refint\Atv-04.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\Atv-04.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-04\Atv-04\obj\Debug\net8.0\ref\Atv-04.dll

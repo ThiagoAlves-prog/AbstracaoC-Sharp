@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\bin\Debug\net8.0\Atv-02.exe
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\bin\Debug\net8.0\Atv-02.deps.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\bin\Debug\net8.0\Atv-02.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\bin\Debug\net8.0\Atv-02.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\bin\Debug\net8.0\Atv-02.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\refint\Atv-02.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\Atv-02.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-02\Atv-02\obj\Debug\net8.0\ref\Atv-02.dll

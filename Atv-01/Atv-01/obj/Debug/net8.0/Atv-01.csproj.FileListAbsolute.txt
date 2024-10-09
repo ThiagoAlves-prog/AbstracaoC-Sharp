@@ -1,0 +1,28 @@
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.exe
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.deps.json
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.runtimeconfig.json
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.dll
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.pdb
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.AssemblyInfo.cs
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.dll
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\refint\Atv-01.dll
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.pdb
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.genruntimeconfig.cache
+C:\Users\SENAI2EM\source\repos\Atv-01\Atv-01\obj\Debug\net8.0\ref\Atv-01.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.exe
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.deps.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\bin\Debug\net8.0\Atv-01.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\refint\Atv-01.dll
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.pdb
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\Atv-01.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\Exercícios Abstração\Atv-01\Atv-01\obj\Debug\net8.0\ref\Atv-01.dll

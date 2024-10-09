@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Abstra\u00E7\u00E3o\\Atv-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E428D0ED-54F7-4F1F-96A2-AA76FC490367}|Atv-01\\Atv-01.csproj|c:\\users\\senai2em\\desktop\\exerc\u00EDcios abstra\u00E7\u00E3o\\atv-01\\atv-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428D0ED-54F7-4F1F-96A2-AA76FC490367}|Atv-01\\Atv-01.csproj|solutionrelative:atv-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E428D0ED-54F7-4F1F-96A2-AA76FC490367}|Atv-01\\Atv-01.csproj|c:\\users\\senai2em\\desktop\\exerc\u00EDcios abstra\u00E7\u00E3o\\atv-01\\atv-01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E428D0ED-54F7-4F1F-96A2-AA76FC490367}|Atv-01\\Atv-01.csproj|solutionrelative:atv-01\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Abstra\u00E7\u00E3o\\Atv-01\\Atv-01\\Livro.cs",
+              "RelativeDocumentMoniker": "Atv-01\\Livro.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Abstra\u00E7\u00E3o\\Atv-01\\Atv-01\\Livro.cs",
+              "RelativeToolTip": "Atv-01\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:40:24.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Abstra\u00E7\u00E3o\\Atv-01\\Atv-01\\Program.cs",
+              "RelativeDocumentMoniker": "Atv-01\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Exerc\u00EDcios Abstra\u00E7\u00E3o\\Atv-01\\Atv-01\\Program.cs",
+              "RelativeToolTip": "Atv-01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:38:59.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
